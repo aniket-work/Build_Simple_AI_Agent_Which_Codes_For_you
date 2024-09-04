@@ -6,20 +6,20 @@
 
 Full Article : [https://medium.com/@learn-simplified/how-to-build-ai-agent-to-solve-complex-question-using-decomposition-and-aggregation-7dee6f0373a3
 
-Have you ever thought about how AI can handle really tough questions that even experts find challenging? We're about to explore AI agents that can solve complex problems, step by step, like a chef following a detailed recipe. This isn't just another tech discussion - it's a look into how AI is shaping the future of problem-solving, not just by giving answers, but by creating well-thought-out solutions.
+Picture this: You're tackling a tricky coding problem, and instead of spending hours searching through documentation or Stack Overflow, you have a personal AI assistant right at your fingertips. This isn't science fiction - it's the reality we're building today. In this article, we'll dive into creating an AI coding assistant that not only answers your questions but also writes and runs code for you. It's like having a brilliant programmer by your side, ready to help 24/7.
 
 ## What's This Project About?
-This article is your backstage pass to building an AI agent that's like a Swiss Army knife for complex questions. We're talking about a system that doesn't just stare blankly at tough queries but breaks them down into bite-sized chunks. It's all about the art of 'decomposition and aggregation' - fancy words for splitting big problems into smaller ones and then putting the answers back together.
-We'll walk through creating a SubQuestionQueryEngine that's like a team of mini-experts working together. It takes a big question, like "How have electric vehicles impacted urban traffic from 2015 to 2023?", and turns it into a series of smaller questions. Then, it hunts for answers in a treasure trove of PDF reports, each covering a different year. Finally, it weaves all these answers into one coherent response. It's like watching a jigsaw puzzle solve itself!
+This article is your guide to building a powerful AI coding assistant using Python, Streamlit, and Autogen. We'll walk through creating a web application where you can ask coding questions and get instant, interactive responses. The AI doesn't just give you answers - it provides code snippets that you can run right in your browser. We'll cover everything from setting up the AI assistant to creating a user-friendly interface and implementing safe code execution. By the end, you'll have a working prototype of an AI coding buddy that can help streamline your development process.
 
 ## Why Use This Project?
-In today's business world, AI isn't just a buzzword - it's becoming as essential as your morning coffee. Companies are drowning in data and complex problems, and they need smart solutions fast. This article shows you how a fictional company (let's call them "EcoCity Planners") could use AI to make sense of years of data on electric vehicles and urban traffic.
+In today's fast-paced business environment, efficiency is key. AI is no longer a futuristic concept - it's a present-day tool that can dramatically boost productivity. Imagine a fictional tech startup, CodeNinja Inc., implementing this AI coding assistant. Their developers save hours daily on routine coding tasks, allowing them to focus on innovation and complex problem-solving. 
+This article shows you how to bring that same edge to your work or business. Whether you're a solo developer looking to enhance your toolkit or a company aiming to optimize your coding workflow, this AI assistant represents a significant step forward in leveraging AI for practical, day-to-day coding tasks.
 
 ## Architecture
 ![Design Diagram](design_docs/design.png)
 
 
-# Tutorial: Lets Build Agentic RAG From Scratch
+# Tutorial: Let's Build AI Agents That Code for You
 
 ## Prerequisites
 - Python installed on your system.
@@ -63,11 +63,11 @@ In today's business world, AI isn't just a buzzword - it's becoming as essen
       - For Windows and Mac users: Double-click the downloaded installer file (.exe for Windows, .dmg for Mac) and follow the on-screen instructions
       - For Linux users: Open a terminal and run the following command:
 
-4. **Run - AI Agent To Strategic decision for complex business scenario**
+4. **Run - AI Agents That Code for You**
 
    ```bash 
-   # Run AI Agent To Strategic decision for complex business scenario   
-   streamlit run ui.py   
+   # Run AI Agents That Code for You   
+   streamlit run main.py   
    ```
 
 

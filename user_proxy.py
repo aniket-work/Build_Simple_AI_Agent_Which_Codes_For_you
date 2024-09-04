@@ -3,6 +3,7 @@ import io
 import sys
 from constants import MAX_CONSECUTIVE_AUTO_REPLY, CODE_EXECUTION_TIMEOUT
 
+
 class StreamlitUserProxy(autogen.UserProxyAgent):
     def __init__(self, name):
         super().__init__(

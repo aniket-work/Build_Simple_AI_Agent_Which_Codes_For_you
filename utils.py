@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 def run_assistant(message, user_proxy, assistant):
     chat_history = []
 
@@ -10,6 +11,7 @@ def run_assistant(message, user_proxy, assistant):
     )
 
     return chat_history
+
 
 def run_code_block(code, user_proxy):
     exitcode, output, error = user_proxy.run_code(code)

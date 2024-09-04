@@ -19,7 +19,7 @@ This article shows you how to bring that same edge to your work or business. Whe
 ![Design Diagram](design_docs/design.png)
 
 
-# Tutorial: Let's Build AI Agents That Code for You
+# Tutorial: Let's Build AI Agents That Code for You
 
 ## Prerequisites
 - Python installed on your system.

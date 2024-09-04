@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Full Article : [https://medium.com/@learn-simplified/how-to-build-ai-agent-to-solve-complex-question-using-decomposition-and-aggregation-7dee6f0373a3
+Full Article : [https://medium.com/@learn-simplified/lets-build-ai-agents-that-code-for-you-70b25169a220
 
 Picture this: You're tackling a tricky coding problem, and instead of spending hours searching through documentation or Stack Overflow, you have a personal AI assistant right at your fingertips. This isn't science fiction - it's the reality we're building today. In this article, we'll dive into creating an AI coding assistant that not only answers your questions but also writes and runs code for you. It's like having a brilliant programmer by your side, ready to help 24/7.
 
